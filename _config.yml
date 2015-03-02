@@ -6,7 +6,6 @@ url: "http://anirudh24seven.github.io" # the base hostname & protocol for your s
 theme:
   # Meta
   title: HelpStack Blog
-  avatar: avatar.png
   gravatar: # email md5 hash
   description: "My thoughts on building HelpStack" # used by search engines
   
