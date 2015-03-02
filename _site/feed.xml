@@ -6,8 +6,8 @@
 </description>
     <link>http://helpstack.io/</link>
     <atom:link href="http://helpstack.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Mar 2015 11:06:24 +0530</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2015 11:06:24 +0530</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2015 11:08:10 +0530</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2015 11:08:10 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -59,9 +59,11 @@
 &lt;p&gt;You can also show your love by tweeting to &lt;a href=&quot;https://twitter.com/helpstacksdk&quot;&gt;@HelpStackSDK&lt;/a&gt;. &lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Mar 2015 16:11:28 +0530</pubDate>
-        <link>http://helpstack.io/2015/03/02/how-to-progress-with-helpstack.html</link>
-        <guid isPermaLink="true">http://helpstack.io/2015/03/02/how-to-progress-with-helpstack.html</guid>
+        <link>http://helpstack.io/helpstack-android/2015/03/02/how-to-progress-with-helpstack.html</link>
+        <guid isPermaLink="true">http://helpstack.io/helpstack-android/2015/03/02/how-to-progress-with-helpstack.html</guid>
         
+        
+        <category>helpstack-android</category>
         
       </item>
     
