@@ -2,7 +2,7 @@
 title: HelpStack Blog
 description: > # this means to ignore newlines until "baseurl:"
   My thoughts on building HelpStack
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/helpstack-android" # the subpath of your site, e.g. /blog/
 url: "http://helpstack.io" # the base hostname & protocol for your site
 twitter_username: anirudh24seven
 github_username:  anirudh24seven
