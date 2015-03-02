@@ -21,10 +21,10 @@ theme:
   behance:
   bitbucket: 
   dribbble: 
-  facebook: "https://www.facebook.com/helpstack"
+  facebook: "helpstack"
   flickr: 
   github: "happyfoxinc/helpstack-android"
-  google_plus: "https://plus.google.com/u/0/+HelpstackIo/"
+  google_plus: "HelpstackIo/"
   instagram: 
   linkedin:  # full URL
   pinterest: 
@@ -33,7 +33,7 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter.com/helpstacksdk"
+  twitter: "helpstacksdk"
   wordpress: 
   youtube: 
   
