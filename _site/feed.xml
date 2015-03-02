@@ -2,16 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HelpStack Blog</title>
-    <description>My thoughts on building HelpStack
-</description>
-    <link>http://helpstack.io/</link>
-    <atom:link href="http://helpstack.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Mar 2015 11:18:06 +0530</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2015 11:18:06 +0530</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <atom:link href="http://anirudh24seven.github.io/helpstack-android/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://anirudh24seven.github.io/helpstack-android/</link>
+    <description>My thoughts on building HelpStack</description>
+    <pubDate>Mon, 02 Mar 2015 11:55:08 +0530</pubDate>
     
       <item>
         <title>How to progress with HelpStack</title>
+        <link>http://anirudh24seven.github.io/helpstack-android/helpstack-android/2015/03/02/how-to-progress-with-helpstack.html</link>
+        <guid isPermaLink="true">http://anirudh24seven.github.io/helpstack-android/helpstack-android/2015/03/02/how-to-progress-with-helpstack.html</guid>
         <description>&lt;p&gt;You want to provide customer support within your app and you have found HelpStack. You have gone through the features and you like it because it is open source, provides a wide variety of customizations and is available for both, iOS and Android..&lt;/p&gt;
 
 &lt;p&gt;But you think, &lt;em&gt;“Do I really want to use this? How will I make use of this?”&lt;/em&gt; This post will guide you through the process of progressing with HelpStack.&lt;/p&gt;
@@ -59,12 +58,6 @@
 &lt;p&gt;You can also show your love by tweeting to &lt;a href=&quot;https://twitter.com/helpstacksdk&quot;&gt;@HelpStackSDK&lt;/a&gt;. &lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Mar 2015 16:11:28 +0530</pubDate>
-        <link>http://helpstack.io/helpstack-android/2015/03/02/how-to-progress-with-helpstack.html</link>
-        <guid isPermaLink="true">http://helpstack.io/helpstack-android/2015/03/02/how-to-progress-with-helpstack.html</guid>
-        
-        
-        <category>helpstack-android</category>
-        
       </item>
     
   </channel>
