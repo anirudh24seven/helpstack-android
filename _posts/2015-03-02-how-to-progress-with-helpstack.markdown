@@ -2,7 +2,6 @@
 layout: post
 title:  "How to progress with HelpStack"
 date:   2015-03-02 10:41:28
-categories: helpstack-android
 ---
 
 
