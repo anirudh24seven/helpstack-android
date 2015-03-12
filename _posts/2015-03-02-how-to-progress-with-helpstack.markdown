@@ -5,7 +5,7 @@ date:   2015-03-02 10:41:28
 ---
 
 
-You want to provide customer support within your app and you have found HelpStack. You have gone through the features and you like it because it is open source, provides a wide variety of customizations and is available for both, iOS and Android..
+You want to provide customer support within your app and you have found [HelpStack](http://www.helpstack.io/). You have gone through the features and you like it because it is open source, provides a wide variety of customizations and is available for both, iOS and Android..
 
 But you think, *“Do I really want to use this? How will I make use of this?”* This post will guide you through the process of progressing with HelpStack.
 
